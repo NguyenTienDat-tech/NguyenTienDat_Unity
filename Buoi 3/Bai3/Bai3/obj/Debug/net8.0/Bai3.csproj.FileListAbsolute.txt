@@ -1,0 +1,15 @@
+D:\git folder_unity\Buoi 3\Bai3\Bai3\bin\Debug\net8.0\Bai3.exe
+D:\git folder_unity\Buoi 3\Bai3\Bai3\bin\Debug\net8.0\Bai3.deps.json
+D:\git folder_unity\Buoi 3\Bai3\Bai3\bin\Debug\net8.0\Bai3.runtimeconfig.json
+D:\git folder_unity\Buoi 3\Bai3\Bai3\bin\Debug\net8.0\Bai3.dll
+D:\git folder_unity\Buoi 3\Bai3\Bai3\bin\Debug\net8.0\Bai3.pdb
+D:\git folder_unity\Buoi 3\Bai3\Bai3\obj\Debug\net8.0\Bai3.GeneratedMSBuildEditorConfig.editorconfig
+D:\git folder_unity\Buoi 3\Bai3\Bai3\obj\Debug\net8.0\Bai3.AssemblyInfoInputs.cache
+D:\git folder_unity\Buoi 3\Bai3\Bai3\obj\Debug\net8.0\Bai3.AssemblyInfo.cs
+D:\git folder_unity\Buoi 3\Bai3\Bai3\obj\Debug\net8.0\Bai3.csproj.CoreCompileInputs.cache
+D:\git folder_unity\Buoi 3\Bai3\Bai3\obj\Debug\net8.0\Bai3.sourcelink.json
+D:\git folder_unity\Buoi 3\Bai3\Bai3\obj\Debug\net8.0\Bai3.dll
+D:\git folder_unity\Buoi 3\Bai3\Bai3\obj\Debug\net8.0\refint\Bai3.dll
+D:\git folder_unity\Buoi 3\Bai3\Bai3\obj\Debug\net8.0\Bai3.pdb
+D:\git folder_unity\Buoi 3\Bai3\Bai3\obj\Debug\net8.0\Bai3.genruntimeconfig.cache
+D:\git folder_unity\Buoi 3\Bai3\Bai3\obj\Debug\net8.0\ref\Bai3.dll
