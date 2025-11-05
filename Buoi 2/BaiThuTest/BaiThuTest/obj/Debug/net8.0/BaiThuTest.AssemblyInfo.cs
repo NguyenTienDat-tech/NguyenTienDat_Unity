@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BaiThuTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+86dec7bdca605b0d8b470e10cb37f32a8ba7d627")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e8ee4b4aea5dd6d2647be97172fb89b48b3f90ad")]
 [assembly: System.Reflection.AssemblyProductAttribute("BaiThuTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BaiThuTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

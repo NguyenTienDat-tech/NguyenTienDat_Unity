@@ -2,30 +2,33 @@
 {
     public class Program
     {
-        static string KiemTra(string nhap)
+        static string DaoNguoc(string chuoi)
         {
-            char[] a = nhap.ToCharArray();
+            char[] a = chuoi.ToCharArray();
+            int i = 0;
+            int j = a.Length - 1;
 
-            for (int i = 0; i < a.Length; i++)
+            while (i < j)
             {
-                for (int j = i + 1; j < a.Length; j++)
-                {
-                        char temp = a[i];
-                         a[i] = a[j];
-                         a[j] = temp;
-                }
+                char temp = a[i];
+                a[i] = a[j];
+                a[j] = temp;
+
+                i++;
+                j--;
             }
-            string ketqua = new string(a); //chuyển mảng ký tự a trở lại thành chuỗi string
+            string ketqua = new string(a);
             return ketqua;
         }
-
-
 
         static void Main(string[] args)
         {
             Console.Write("Nhap chuoi: ");
-            string nhap = Console.ReadLine(); 
-            Console.WriteLine(KiemTra(nhap));
+            string chuoi = Console.ReadLine();
+
+            Console.WriteLine("Chuoi sau khi dao nguoc: ");
+            Console.WriteLine(DaoNguoc(chuoi));
+
         }
     }
 }
