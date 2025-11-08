@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\git folder_unity\\Buoi 4\\Bai1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{002CA801-8938-451D-8538-0A8FC0082068}|Bai1\\Bai1.csproj|d:\\git folder_unity\\buoi 4\\bai1\\bai1\\main1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{002CA801-8938-451D-8538-0A8FC0082068}|Bai1\\Bai1.csproj|solutionrelative:bai1\\main1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{002CA801-8938-451D-8538-0A8FC0082068}|Bai1\\Bai1.csproj|d:\\git folder_unity\\buoi 4\\bai1\\bai1\\congnhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{002CA801-8938-451D-8538-0A8FC0082068}|Bai1\\Bai1.csproj|solutionrelative:bai1\\congnhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{002CA801-8938-451D-8538-0A8FC0082068}|Bai1\\Bai1.csproj|d:\\git folder_unity\\buoi 4\\bai1\\bai1\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{002CA801-8938-451D-8538-0A8FC0082068}|Bai1\\Bai1.csproj|solutionrelative:bai1\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main1.cs",
+              "DocumentMoniker": "D:\\git folder_unity\\Buoi 4\\Bai1\\Bai1\\Main1.cs",
+              "RelativeDocumentMoniker": "Bai1\\Main1.cs",
+              "ToolTip": "D:\\git folder_unity\\Buoi 4\\Bai1\\Bai1\\Main1.cs",
+              "RelativeToolTip": "Bai1\\Main1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T14:19:12.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CongNhan.cs",
+              "DocumentMoniker": "D:\\git folder_unity\\Buoi 4\\Bai1\\Bai1\\CongNhan.cs",
+              "RelativeDocumentMoniker": "Bai1\\CongNhan.cs",
+              "ToolTip": "D:\\git folder_unity\\Buoi 4\\Bai1\\Bai1\\CongNhan.cs*",
+              "RelativeToolTip": "Bai1\\CongNhan.cs*",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwAAAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T13:50:09.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\git folder_unity\\Buoi 4\\Bai1\\Bai1\\Person.cs",
+              "RelativeDocumentMoniker": "Bai1\\Person.cs",
+              "ToolTip": "D:\\git folder_unity\\Buoi 4\\Bai1\\Bai1\\Person.cs",
+              "RelativeToolTip": "Bai1\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T13:45:39.308Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
